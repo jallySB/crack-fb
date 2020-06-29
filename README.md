@@ -1,7 +1,8 @@
-# spider-fb
+# crack-fb
 Perintah :
 
-$pkg update &amp;&amp; pkg upgrade  
+$pkg update
+$pkg upgrade  
 $pkg install python2  
 $pkg install git  
 $git clone https://github.com/jallySB/crack-fb  
@@ -10,9 +11,9 @@ $pip2 install requests
 $ls  
 $cd  crack-fb 
 $python2 crack-fb.py  
-Usernam: jally
+Usernam: cek video
 
-Pass: jallySB
+Pass: cek video 👉 https://youtu.be/anMx8ORDcZY
 
 Don't forget to subscribe to the YouTube channel, please
 
