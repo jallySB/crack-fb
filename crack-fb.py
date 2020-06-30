@@ -156,7 +156,7 @@ def login():
 				keluar()
 		if 'checkpoint' in url:
 			print("\n\033[1;96m[!] \x1b[1;91mSepertinya akun anda kena checkpoint")
-			os.system('xdg-open https://www.youtube.com/channel/UCP0-8OzsHywqN461bVFjUbQ')
+			os.system('xdg-open https://www.youtube.com/jallySB')
 			time.sleep(1)
 			keluar()
 		else:
